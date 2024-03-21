@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
    
-    <groupId>demo</groupId>
+    <groupId>newdemo</groupId>
     <artifactId>maven-demo</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.11-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
     <packaging>jar</packaging>
